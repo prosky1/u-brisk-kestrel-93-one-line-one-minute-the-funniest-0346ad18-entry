@@ -10,7 +10,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 
 const LINE =
-  "Your deadline moved because I asked the calendar nicely, and it felt sorry for me.";
+  "I asked your deadline for an extension and it blocked me.";
 
 const OUT = "/output/entry.txt";
 
